@@ -1,1 +1,1 @@
-Heyo, this is my first package :3
+This is my first python package introducing some code for Gaussian and Binomial distributions.
